@@ -83,6 +83,139 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2023-12-08",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 13
+    },
+    {
+      "date": "2023-12-08",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 14
+    },
+    {
+      "date": "2023-12-08",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 15
+    },
+    {
+      "date": "2023-12-08",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 16
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 17
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 18
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 19
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 20
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 21
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 22
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 23
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 24
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 25
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 26
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 27
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 28
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 29
+    },
+    {
+      "date": "2023-12-07",
+      "description": "movies",
+      "category": "Entertainment",
+      "amount": "25",
+      "id": 30
+    },
+    {
+      "date": "2023-12-07",
+      "description": "kenya",
+      "category": "nationality",
+      "amount": "234",
+      "id": 31
     }
   ]
 }
